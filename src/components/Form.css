@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+    padding: 20px;
+    text-align: left;
+    gap: 0.5rem;
+    width: 200px;
+}
+
+.display {
+    text-align: left;
+    padding: 20px;
+}
